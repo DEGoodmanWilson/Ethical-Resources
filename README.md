@@ -14,6 +14,7 @@ A list of reading and resources for ethical source software.
 - https://licensezero.com
 - https://opensource.org/faq#evil
 - https://twitter.com/opensourceorg/status/1176229398929977344
+- https://github.com/drop-ice/dear-github-2.0
 
 ## Other works by me
 - https://dev.to/degoodmanwilson/open-source-is-broken-g60
