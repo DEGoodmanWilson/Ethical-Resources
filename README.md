@@ -17,7 +17,8 @@ A list of reading and resources for ethical source software.
 - https://github.com/drop-ice/dear-github-2.0
 - https://www.metamute.org/editorial/articles/californian-ideology
 - https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html
-- https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf
+- [Do Artifacts Have Politics?](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+- https://www.ruinedby.design
 
 ## Other works by me
 - https://dev.to/degoodmanwilson/open-source-is-broken-g60
