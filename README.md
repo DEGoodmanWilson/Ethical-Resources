@@ -24,3 +24,4 @@ A list of reading and resources for ethical source software.
 - https://dev.to/degoodmanwilson/open-source-is-broken-g60
 - https://www.youtube.com/watch?v=H66-MFR_rgE
 - https://www.greaterthancode.com/ethical-open-source
+- https://video.fosdem.org/2020/UB5.230/ethicsoss.webm
