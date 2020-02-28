@@ -29,6 +29,7 @@ Here's my personal reading list over topics including Open Source, its history, 
 - ["The Californian Ideology", Richard Barbrook and Andy Cameron](https://www.metamute.org/editorial/articles/californian-ideology)
 - ["Rebuttal of the Californian Ideology", Louis Rossetto](https://www.alamut.com/subj/ideologies/pessimism/califIdeo_II.html)
 - ["Do Artifacts Have Politics?", Langdon Winner](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+- [_For Fun and Profit: A History of the Free and Open Source Software Revolution_, Christopher Tozzi](https://www.goodreads.com/book/show/36061263-for-fun-and-profit?from_search=true&qid=gh6Oqys482&rank=1)
 - [_Open Standards and the Digital Age: History, Ideology, and Networks_, Andrew L. Russell](https://www.goodreads.com/book/show/21864772-open-standards-and-the-digital-age?from_search=true&qid=EUSm3BHeSh&rank=1)
 - [_Hackers: Heroes of the computer revolution_, Steven Levy](https://www.goodreads.com/book/show/56829.Hackers?from_search=true&qid=sIwEV6y5Wx&rank=1)
 - [_The Open Revolution: Rewrting the Rules of the Information Age_, Rufus Pollock](https://www.goodreads.com/book/show/40515943-the-open-revolution?from_search=true&qid=VHNoWdsYe6&rank=2) ([eBook here](https://openrevolution.net/))
@@ -42,6 +43,7 @@ Here's my personal reading list over topics including Open Source, its history, 
 - [_Open Sources: Voices from the Open Source Revolution_, Bruce Perens (ed)](https://www.oreilly.com/openbook/opensources/book/perens.html)
 - ["The Social Meaning of the Personal Computer: Or, Why the Personal Computer Revolution Was No Revolution", Bryan Pfaffenberger(https://www.jstor.org/stable/3317870)
 - [_Cyberselfish: A Critical Romp through the Terribly Libertarian Culture of High Tech_, Paulina Borsook](https://www.goodreads.com/book/show/211081.Cyberselfish_A_Critical_Romp_Through_The_Terribly_Libertarian_Culture_Of_High_Tech?from_search=true&qid=ohIVlJ6frh&rank=1)
+- [_Fire in the Valley: The Making of the Personal Computer_, Michael Swaine, Paul Freiberger](https://www.goodreads.com/book/show/22633290-fire-in-the-valley)
 
 ## Heroes
 - ["Ethical Source at WeTransfer", Bastiaan Terhorst](https://bastiaan.cc/notes/ethical-source-at-wetransfer/)
