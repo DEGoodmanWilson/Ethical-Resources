@@ -45,6 +45,9 @@ Here's my personal reading list over topics including Open Source, its history, 
 - [_Cyberselfish: A Critical Romp through the Terribly Libertarian Culture of High Tech_, Paulina Borsook](https://www.goodreads.com/book/show/211081.Cyberselfish_A_Critical_Romp_Through_The_Terribly_Libertarian_Culture_Of_High_Tech?from_search=true&qid=ohIVlJ6frh&rank=1)
 - [_Fire in the Valley: The Making of the Personal Computer_, Michael Swaine, Paul Freiberger](https://www.goodreads.com/book/show/22633290-fire-in-the-valley)
 - ["The Meme Hustler", Evgeny Morozov](https://thebaffler.com/salvos/the-meme-hustler)
+- ["The Economics of Open Source", C J Silverio](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
+- ["The culture war at the heart of open source", Steve Klabnik](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)
+- ["What comes after 'open source'", Steve Klabnik](https://words.steveklabnik.com/what-comes-after-open-source)
 
 ## Heroes
 - ["Ethical Source at WeTransfer", Bastiaan Terhorst](https://bastiaan.cc/notes/ethical-source-at-wetransfer/)
