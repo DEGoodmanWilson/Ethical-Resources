@@ -41,7 +41,7 @@ Here's my personal reading list over topics including Open Source, its history, 
 - ["Stewart Brand's Whole Earth Catalog, the book that changed the world", Carole Cadwalladr](https://www.theguardian.com/books/2013/may/05/stewart-brand-whole-earth-catalog)
 - ["The Whole Earth Catalog Effect", Steven Kotler](https://www.mnn.com/lifestyle/arts-culture/stories/the-whole-earth-catalog-effect)
 - [_Open Sources: Voices from the Open Source Revolution_, Bruce Perens (ed)](https://www.oreilly.com/openbook/opensources/book/perens.html)
-- ["The Social Meaning of the Personal Computer: Or, Why the Personal Computer Revolution Was No Revolution", Bryan Pfaffenberger(https://www.jstor.org/stable/3317870)
+- ["The Social Meaning of the Personal Computer: Or, Why the Personal Computer Revolution Was No Revolution", Bryan Pfaffenberger](https://www.jstor.org/stable/3317870)
 - [_Cyberselfish: A Critical Romp through the Terribly Libertarian Culture of High Tech_, Paulina Borsook](https://www.goodreads.com/book/show/211081.Cyberselfish_A_Critical_Romp_Through_The_Terribly_Libertarian_Culture_Of_High_Tech?from_search=true&qid=ohIVlJ6frh&rank=1)
 - [_Fire in the Valley: The Making of the Personal Computer_, Michael Swaine, Paul Freiberger](https://www.goodreads.com/book/show/22633290-fire-in-the-valley)
 - ["The Meme Hustler", Evgeny Morozov](https://thebaffler.com/salvos/the-meme-hustler)
